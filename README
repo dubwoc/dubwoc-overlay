@@ -1,0 +1,4 @@
+Gentoo overlay of random ebuilds pulled in from other sources.
+
+Add the following to your /etc/portage/make.conf to enable.
+PORTDIR_OVERLAY="/path/to/dubwoc-overlay"
